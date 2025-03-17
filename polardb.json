@@ -1,5 +1,5 @@
 {
-  "tps_metrics": [
+  "game_cluster": [
     {
       "clusterId": "pc-3ns6kn1i0364z7b55",
       "nodeId": "pi-3ns26a2053thji94w"
@@ -439,7 +439,9 @@
     {
       "clusterId": "pc-3nsi72r7577bu7c5o",
       "nodeId": "pi-3ns7dz5p44307d225"
-    },
+    }
+  ],
+  "global_cluster": [
     {
       "clusterId": "pc-3ns1i1d01q26yq67i",
       "nodeId": "pi-3ns900xw78c6lx2l4"
@@ -447,6 +449,56 @@
     {
       "clusterId": "pc-3ns2q76v2352lf0f2",
       "nodeId": "pi-3nss32661o6l62gu3"
+    }
+  ],
+  "external_cluster": [
+    {
+      "clusterId": "pc-3ns7p5ltk5c506jum",
+      "nodeId": "pi-3nsmgy7n5443w5962"
+    },
+    {
+      "clusterId": "pc-3ns5da5d2x75415nk",
+      "nodeId": "pi-3nshuxl231eb835h2"
+    },
+    {
+      "clusterId": "pc-3nslejf1ka99570vy",
+      "nodeId": "pi-3nswis5wlhbg2d8xl"
+    },
+    {
+      "clusterId": "pc-3nsj12nu2996w4c10",
+      "nodeId": "pi-3ns8mq1b502175n9e"
+    },
+    {
+      "clusterId": "pc-3ns0504fsq6o6f221",
+      "nodeId": "pi-3nsvzk6o9ds1pc519"
+    },
+    {
+      "clusterId": "pc-3nsa30y6zm8fs8q5s",
+      "nodeId": "pi-3nsm564w3a2aivj40"
+    },
+    {
+      "clusterId": "pc-3ns3c7gb0nua1n6k4",
+      "nodeId": "pi-3nskgjld2q5zml625"
+    },
+    {
+      "clusterId": "pc-3ns6625r30fffc52t",
+      "nodeId": "pi-3ns56897kh4j11s32"
+    },
+    {
+      "clusterId": "pc-3ns2r14ta3x20943d",
+      "nodeId": "pi-3nsyms3ahk387rha1"
+    },
+    {
+      "clusterId": "pc-3nsx0z40knwf549f2",
+      "nodeId": "pi-3ns2pt9603l0640eg"
+    },
+    {
+      "clusterId": "pc-3nslfo569av3c3ec2",
+      "nodeId": "pi-3nsztwu8om3nn7o3q"
+    },
+    {
+      "clusterId": "pc-3ns8czhbxnjn039ow",
+      "nodeId": "pi-3nsc7l3cpt9izhrsv"
     }
   ]
 }
