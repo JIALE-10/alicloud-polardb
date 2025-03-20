@@ -17,12 +17,12 @@
     {
       "clusterId": "pc-3ns2q76v2352lf0f2",
       "nodeId": "pi-3nss32661o6l62gu3"
-	  "Description": "abc-game"
+      "Description": "abc-game"
     },
     {
       "clusterId": "pc-3ns2q76v2352lf0f2",
       "roId": "pi-3ns2c778816q122s0",
-	  "Description": "abc-global"
+      "Description": "abc-global"
     },
     {
       "clusterId": "pc-3ns8czhbxnjn039ow",
