@@ -1,38 +1,40 @@
-[
-  {
-    "instanceId": "lb-3ns9f1hivp215wd7cxrap"
-  },
-  {
-    "instanceId": "lb-3nsllqakvcd59iho1sj1s"
-  },
-  {
-    "instanceId": "lb-3nso2lbjoasp4m3v57lcc"
-  },
-  {
-    "instanceId": "lb-3ns7uu639zgosmgyzhzgr"
-  },
-  {
-    "instanceId": "lb-3nss0x8fv0ai2jjw185ta"
-  },
-  {
-    "instanceId": "lb-3nsxrnrbh4hg1kxyv101h"
-  },
-  {
-    "instanceId": "lb-3nsilkrwz9481htc8d32f"
-  },
-  {
-    "instanceId": "lb-3nsdl4adnw31mseh5kzuv"
-  },
-  {
-    "instanceId": "lb-3nsco0682eht3ll30uann"
-  },
-  {
-    "instanceId": "lb-3nsy5xsgp9r4shw872y5l"
-  },
-  {
-    "instanceId": "lb-3nsx0gwrk1dqdakhg07t1"
-  },
-  {
-    "instanceId": "lb-3nst8o8qhh33uad2ib6zo"
-  }
-]
+{
+  "slb_prod_asia": [
+    {
+      "instanceId": "lb-3ns9f1hivp215wd7cxrap"
+    },
+    {
+      "instanceId": "lb-3nsllqakvcd59iho1sj1s"
+    },
+    {
+      "instanceId": "lb-3nso2lbjoasp4m3v57lcc"
+    },
+    {
+      "instanceId": "lb-3ns7uu639zgosmgyzhzgr"
+    },
+    {
+      "instanceId": "lb-3nss0x8fv0ai2jjw185ta"
+    },
+    {
+      "instanceId": "lb-3nsxrnrbh4hg1kxyv101h"
+    },
+    {
+      "instanceId": "lb-3nsilkrwz9481htc8d32f"
+    },
+    {
+      "instanceId": "lb-3nsdl4adnw31mseh5kzuv"
+    },
+    {
+      "instanceId": "lb-3nsco0682eht3ll30uann"
+    },
+    {
+      "instanceId": "lb-3nsy5xsgp9r4shw872y5l"
+    },
+    {
+      "instanceId": "lb-3nsx0gwrk1dqdakhg07t1"
+    },
+    {
+      "instanceId": "lb-3nst8o8qhh33uad2ib6zo"
+    }
+  ]
+}
